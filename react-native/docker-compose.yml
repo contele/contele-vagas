@@ -1,0 +1,23 @@
+version: '3'
+services:
+  redis:
+    image: redis
+    container_name: redis
+    ports: 
+      - 6379:6379
+  api:
+    image: api-points
+    container_name: api-points
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    depends_on: 
+      - redis
+    links:
+      - redis
+    environment:
+      PORT: 8081
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    ports:
+      - 8081:8081
