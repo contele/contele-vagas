@@ -10,13 +10,20 @@ Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/
 - Qualidade de código.
 
 ## TESTE
-##### Criar API RESTFUL usando nodejs express
+##### Criar um serviço de API RESTFUL usando nodejs
 - Criar 4 endpoints GET/POST/PUT/DELETE
+- Documentação utilizando swagger.
+- docker/compose.
+- postgres.
 
 ### Premissas
-- Salvar (email, senha)
+- JAVASCRIPT.
+- Salvar (email, senha).
 - Cada usuário deverá ter um ID único
-- Gravar as informações arquivo JSON.
+- Gravar as informações no banco.
+- Ter cuidado com validações.
+- Knex
+- Postgres
 
 ### Documentação
 HTTP | ROUTE | BODY | DESCRIÇÃO |
