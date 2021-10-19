@@ -10,7 +10,7 @@ Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/
 - Qualidade de código.
 
 ## TESTE
-##### Criar um serviço de API RESTFUL usando nodejs
+##### Criar um serviço de API RESTFUL usando nodejs express
 - Criar 4 endpoints GET/POST/PUT/DELETE
 - Documentação utilizando swagger.
 - docker/compose.
@@ -23,6 +23,7 @@ Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/
 - Gravar as informações no banco.
 - Ter cuidado com validações.
 - Knex
+- Express
 - Postgres
 
 ### Documentação
