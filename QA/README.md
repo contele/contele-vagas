@@ -6,7 +6,8 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 
 ## Desafio QA
 Crie uma conta e utilizando a documentação disponibilizada no site https://dummyapi.io realize a validação dos 4 endpoints disponiveis (User Controller, Post Controller, Comment Controller, Tag Controller)
-*Itens obrigatórios*
+
+## *Itens obrigatórios*
 - Realizar validação completa dos Endpoints
 - Descrever um relatório sobre os testes realizados
 - Evidenciar os testes realizados (print) 
