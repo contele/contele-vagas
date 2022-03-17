@@ -9,4 +9,4 @@
 * [fullstack-pleno](fullstack-pleno)
 * [php](php)
 * [react native](react-native)
-* [qa-jr](qa-jr)
+* [QA](QA)

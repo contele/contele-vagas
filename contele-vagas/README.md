@@ -6,5 +6,5 @@ As vagas estão sujeitas a alterações.
 | VAGA | link |
 | ------ | ------ |
 | React Native | [link](react-native) |
-| Analista de testes QA | [link](qa-jr) |
+| Analista de testes QA | [link](qa) |
 
