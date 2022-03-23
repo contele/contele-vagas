@@ -54,9 +54,8 @@ Segue a imagem do aplicativo para aplicar a solução:
 * Android e iOS
 
 ### Finalizando
-
-* Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/test-ReactNative.git;
-
+* Suba a sua proposta para o projeto que você criou no GitHub e envie o link para nós. 
+* Exemplo: https://github.com/seuNome/test-ReactNative.git;
 * Aguarde o RH entrar em contato.
 
 ### Quem buscamos  

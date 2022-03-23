@@ -45,7 +45,8 @@ Código limpo e bem organizado
 README.md bem organizado
 
 # Finalizando
-Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/test-FullstackJSJunior.git;
+Suba a sua proposta para o projeto que você criou no GitHub e envie o link para nós. 
+Exemplo: https://github.com/seuNome/test-FullstackJSJunior.git;
 Aguarde o RH entrar em contato.
 
 ### Quem buscamos
