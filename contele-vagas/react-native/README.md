@@ -57,7 +57,7 @@ Diferenciais para vaga seriam conhecimento em Firebase + Crashlytics, Sincroniza
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux. 
 
-### Para vagas de APP - React Native, desejavel ter MACOS
+### Para vagas de APP - React Native, desejável ter MACOS
 
 ### Nós lhe propomos:
 * Ser parte de uma empresa com espírito empreendedor, na qual adoramos pensar grande e em longo prazo.
