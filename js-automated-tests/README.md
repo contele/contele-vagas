@@ -9,6 +9,21 @@
 
 Confira um vídeo com uma explicação melhor sobre a empresa: [https://youtu.be/GusemhFLxMo](https://youtu.be/GusemhFLxMo)
 
+## Requisitos mínimos de hardware e software
+
+### Hardware
+
+- Memória: 8GB de RAM
+- Processador i5 ou algum AMD equivalente. 
+
+### Software
+- Docker
+- NodeJS
+- NVM ( geranciador de versões para NodeJS, pois trabalhamos com versões diferentes em vários projetos ) 
+- Client para Database  -  Desejável que seja o Dbeaver.
+- Editor de texto - Desejável que seja o vscode. 
+- Sistema Operacional - Desejável que seja alguma distribuição Linux. 
+
 ### Teste para Testes automatizados
 
 Objetivo deste teste é avaliar suas habilidades em desenvolvimento de testes automatizados para APIs e FrontEnd
