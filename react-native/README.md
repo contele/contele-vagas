@@ -72,7 +72,7 @@ Segue a imagem do aplicativo para aplicar a solução:
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux.
 
-* Para vagas de APP - React Native, desejavel ter MACOS
+### Para vagas de APP - React Native, desejavel ter MACOS
 
 ### Quem buscamos  
 
