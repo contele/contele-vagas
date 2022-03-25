@@ -4,8 +4,8 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 
 Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/GusemhFLxMo
 
-
 ## Requisitos mínimos de hardware e software
+
 ### Hardware
 
 - Memória: 8GB de RAM
@@ -18,6 +18,8 @@ Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/
 - Client para Database  -  Desejável que seja o Dbeaver.
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux. 
+
+* Para vagas de APP - React Native, desejavel ter MACOS
 
 ### O objetivo deste teste é avaliar seus conhecimentos: 
 - Em organização.

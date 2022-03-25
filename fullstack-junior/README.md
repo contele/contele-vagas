@@ -19,6 +19,8 @@ Confira um vídeo com uma explicação melhor sobre a empresa: https://youtu.be/
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux. 
 
+* Para vagas de APP - React Native, desejavel ter MACOS
+
 ### O objetivo deste teste é avaliar seus conhecimentos: 
 - Em organização
 - Boas práticas e suas habilidades de programação.

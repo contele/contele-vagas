@@ -42,19 +42,23 @@ Em uma indústria que é reinventada todos os dias, nossas equipes são reconhec
 * Ter trabalhado com as tecnologias  React Native (+6 meses), Hooks, Redux JavaScript, Google Play, Apple Store.
 Diferenciais para vaga seriam conhecimento em Firebase + Crashlytics, Sincronização e offline,  Geoposicionamento
 
-### Requisitos mínimos de hardware e software
-##### Hardware
+## Requisitos mínimos de hardware e software
+
+### Hardware
 
 - Memória: 8GB de RAM
 - Processador i5 ou algum AMD equivalente. 
 
-#### Software
+### Software
 - Docker
 - NodeJS
 - NVM ( geranciador de versões para NodeJS, pois trabalhamos com versões diferentes em vários projetos ) 
 - Client para Database  -  Desejável que seja o Dbeaver.
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux. 
+
+* Para vagas de APP - React Native, desejavel ter MACOS
+
 ### Nós lhe propomos:
 * Ser parte de uma empresa com espírito empreendedor, na qual adoramos pensar grande e em longo prazo.
 * Ser protagonista de seu desenvolvimento em um ambiente de oportunidades, aprendizagem, crescimento, expansão e projetos desafiadores.
