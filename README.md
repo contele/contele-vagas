@@ -1,6 +1,6 @@
 # Contele
 
-## Requisitos mínimos de hardware e software
+## desejávelRequisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 

@@ -58,7 +58,7 @@ Segue a imagem do aplicativo para aplicar a solução:
 * Exemplo: https://github.com/seuNome/test-ReactNative.git;
 * Aguarde o RH entrar em contato.
 
-## Requisitos mínimos de hardware e software
+## desejávelRequisitos mínimos de hardware e software para a VAGA
 ### Hardware
 
 - Memória: 8GB de RAM
