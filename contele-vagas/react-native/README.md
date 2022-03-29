@@ -42,7 +42,7 @@ Em uma indústria que é reinventada todos os dias, nossas equipes são reconhec
 * Ter trabalhado com as tecnologias  React Native (+6 meses), Hooks, Redux JavaScript, Google Play, Apple Store.
 Diferenciais para vaga seriam conhecimento em Firebase + Crashlytics, Sincronização e offline,  Geoposicionamento
 
-## desejávelRequisitos mínimos de hardware e software para a VAGA
+## Requisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 

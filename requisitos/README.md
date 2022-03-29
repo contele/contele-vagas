@@ -1,4 +1,4 @@
-## desejávelRequisitos mínimos de hardware e software para a VAGA
+## Requisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 

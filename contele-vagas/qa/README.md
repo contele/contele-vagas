@@ -34,7 +34,7 @@ Caso tenha interesse, encaminhe as respostas abaixo para Carolinne Gama https://
 -   Identificar e propor melhorias para o produto;
 -   Participar de reuniões com time de projeto.
 
-## desejávelRequisitos mínimos de hardware e software para a VAGA
+## Requisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 

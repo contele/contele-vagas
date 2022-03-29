@@ -9,7 +9,7 @@
 
 Confira um vídeo com uma explicação melhor sobre a empresa: [https://youtu.be/GusemhFLxMo](https://youtu.be/GusemhFLxMo)
 
-## desejávelRequisitos mínimos de hardware e software para a VAGA
+## Requisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 

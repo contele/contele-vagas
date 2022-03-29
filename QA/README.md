@@ -23,7 +23,7 @@ Queremos uma pessoa que pense fora da caixa, utilize sua criatividade, que traba
 * Suba o relatório no github através de um readme e nos envie o link.
 * É de extrema importância estar em anexo provas dos testes realizados (videos,fotos,etc)
 
-## desejávelRequisitos mínimos de hardware e software para a VAGA
+## Requisitos mínimos de hardware e software para a VAGA
 
 ### Hardware
 
