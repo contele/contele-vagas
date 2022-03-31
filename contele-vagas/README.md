@@ -8,3 +8,5 @@ As vagas estão sujeitas a alterações.
 | React Native | [link](react-native) |
 | Analista de testes QA | [link](qa) |
 
+
+> Duvidas? De uma olhada em [perguntas frequentes](perguntas_frequentes)
