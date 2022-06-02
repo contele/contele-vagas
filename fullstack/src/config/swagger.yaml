@@ -1,0 +1,220 @@
+swagger: "2.0"
+info:
+  description: "Controle Simples de Postagens com Usuários"
+  version: "1.0.0"
+  title: "posts_control"
+basePath: "/api/v1"
+consumes:
+  - "application/json"
+produces:
+  - "application/json"
+tags:
+  - name: "Users"
+    description: "User CRUD"
+  - name: "Posts"
+    description: "Post CRUD"
+definitions:
+  user:
+    additionalProperties: false
+    type: "object"
+    required:
+      - "full_name"
+      - "user_email"
+      - "user_password"
+    properties:
+      id:
+        type: "integer"
+      full_name:
+        type: "string"
+      user_email:
+        type: "string"
+      user_password:
+        type: "string"
+  post:
+    additionalProperties: false
+    type: "object"
+    required:
+      - "author_id"
+      - "post_text"
+    properties:
+      id:
+        type: "integer"
+      author_id:
+        type: "integer"
+      post_text:
+        type: "string"
+paths:
+  /user:
+    get:
+      tags:
+        - "Users"
+      x-swagger-router-controller: app
+      summary: list User
+      operationId: listUserHandler
+      parameters:
+        - name: user_id
+          in: query
+          type: string
+          required: false
+      responses:
+        200:
+          description: "success"
+          schema:
+            type: array
+            items:
+              $ref: "#/definitions/user"
+    post:
+      tags:
+        - "Users"
+      x-swagger-router-controller: app
+      summary: create user
+      operationId: createUserHandler
+      parameters:
+        - in: body
+          name: user
+          description: create user
+          schema:
+            $ref: "#/definitions/user"
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/user"
+    put:
+      tags:
+        - "Users"
+      x-swagger-router-controller: app
+      summary: update user
+      operationId: updateUserHandler
+      parameters:
+        - in: body
+          name: user
+          description: update user
+          schema:
+            additionalProperties: false
+            type: "object"
+            required:
+              - "id"
+              - "full_name"
+              - "user_email"
+              - "user_password"
+            properties:
+              id:
+                type: "integer"
+              full_name:
+                type: "string"
+              user_email:
+                type: "string"
+              user_password:
+                type: "string"
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/user"
+    delete:
+      tags:
+        - "Users"
+      x-swagger-router-controller: app
+      summary: delete user
+      operationId: deleteUserHandler
+      parameters:
+        - name: user_id
+          in: query
+          type: integer
+          required: true
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/user"
+  /post:
+    get:
+      tags:
+        - "Posts"
+      x-swagger-router-controller: app
+      summary: list post
+      operationId: listPostHandler
+      parameters:
+        - name: user_id
+          in: query
+          type: string
+          required: false
+      responses:
+        200:
+          description: "success"
+          schema:
+            type: array
+            items:
+              $ref: "#/definitions/post"
+    post:
+      tags:
+        - "Posts"
+      x-swagger-router-controller: app
+      summary: create post
+      operationId: createPostHandler
+      parameters:
+        - in: body
+          name: post
+          description: create post
+          schema:
+            type: object
+            additionalProperties: false
+            required:
+              - post_text
+              - author_id
+            properties:
+              post_text:
+                type: string
+              author_id:
+                type: integer
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/post"
+    put:
+      tags:
+        - "Posts"
+      x-swagger-router-controller: app
+      summary: update post
+      operationId: updatePostHandler
+      parameters:
+        - in: body
+          name: post
+          description: update post
+          schema:
+            additionalProperties: false
+            type: "object"
+            required:
+              - "id"
+              - "author_id"
+              - "post_text"
+            properties:
+              id:
+                type: "integer"
+              author_id:
+                type: "integer"
+              post_text:
+                type: "string"
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/post"
+    delete:
+      tags:
+        - "Posts"
+      x-swagger-router-controller: app
+      summary: delete post
+      operationId: deletePostHandler
+      parameters:
+        - name: post_id
+          in: query
+          type: integer
+          required: true
+      responses:
+        200:
+          description: "success"
+          schema:
+            $ref: "#/definitions/post"

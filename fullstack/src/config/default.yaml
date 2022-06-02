@@ -1,0 +1,26 @@
+swagger:
+  fittingsDirs: [ api/fittings ]
+  defaultPipe: null
+  swaggerControllerPipe: swagger_controllers
+  bagpipes:
+    _router:
+      name: swagger_router
+      mockMode: false
+      mockControllersDirs: [ api/mocks ]
+      controllersDirs: [ . ]
+    _swagger_validate:
+      name: swagger_validator
+      validateResponse: true
+    swagger_params_parser:
+      name: swagger_params_parser
+      jsonOptions:
+        limit: '10mb'
+    swagger_controllers:
+      - onError: json_error_handler
+      - swagger_params_parser
+      - swagger_security
+      - _swagger_validate
+      - express_compatibility
+      - _router
+    swagger_raw:
+      name: swagger_raw
