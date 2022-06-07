@@ -65,7 +65,11 @@ Como exemplo, após ter resolvido 2 problemáticas e encontrado uma terceira, pa
 test/3
 ```
 
-A partir dessa branch com essa resolução é requisitado que se efetue um pull request para a branch principal e em suas alterações comente, no próprio pull request, a causa do problema, o porquê a alteração foi executada daquela maneira e como ela soluciona o problema encontrado.
+A partir dessa branch com a resolução é pedido que se crie um pull request para a branch principal.
+E que comente na descrição:
+1. a causa do problema, 
+2. o porquê a alteração foi feita daquela maneira
+3. como ela soluciona o problema encontrado.
 
 Após essa documentação da problemática é necessário que efetue o merge dessa pull request, inserindo as modificações no seu projeto.
 
