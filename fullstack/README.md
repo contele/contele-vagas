@@ -49,7 +49,7 @@ Para iniciar o teste é necessário clonar esse repositório e obtendo os arquiv
 
 Após a extração será necessário criar um repositório público no seu perfil pessoal com esta pasta, nomeando o primeiro commit como "Init Repo".
 
-Todas as alterações necessárias serão efetuadas nesse repositório.
+Todas as alterações necessárias serão efetuadas no seu repositório.
 
 ### Pull Requests
 
