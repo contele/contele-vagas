@@ -1,0 +1,52 @@
+version: '3.5'
+
+services:
+
+  mysql:
+    image: mysql:latest
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: 'main'
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+    volumes:
+      - main:/var/lib/mysql
+      - ./db/:/docker-entrypoint-initdb.d/
+    ports:
+      - 3305:3305
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 1s
+      retries: 5
+
+  control-posts:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: control-posts
+    working_dir: /control-posts
+    volumes:
+      - control-posts-node-modules:/control-posts/node_modules
+      - ./:/control-posts
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      WRITER_MYSQL_HOST: "mysql"
+      WRITER_MYSQL_PASS: "root"
+      WRITER_MYSQL_PORT: "3305"
+      WRITER_MYSQL_USER: "root"
+      NODE_ENV: "development"
+      PORT: "8081"
+    links:
+      - mysql:mysql
+    ports:
+      - 8081:8081
+      - 9229:9229
+
+volumes:
+  control-posts-node-modules:
+  main:
+      
