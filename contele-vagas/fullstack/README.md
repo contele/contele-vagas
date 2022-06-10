@@ -39,7 +39,11 @@ Em uma indústria que é reinventada todos os dias, nossas equipes são reconhec
 * Identificar e propor as melhores práticas para front-end e back-end, participando da definição do projeto, da revisão do código, dos testes e da manutenção, sendo a maior demanda no back-end com atuações pontuais no front.
 ### Requisitos:
 * Contar com experiência no desenvolvimento de aplicativos, sendo considerado uma vantagem o domínio de metodologias ágeis, tais como Scrum ou Método Kanban, e a usabilidade.
-* Ter trabalhado com as tecnologias ...
+* Ter conhecimento mínimo em JavaScript (React, Angular, Nodejs)
+* Ter conhecimento mínimo em Docker
+* Ter conhecimento mínimo sobre melhores praticas
+* Ter conhecimento mínimo com Banco de dados relacional
+* Experiência com ferramentas de versionamento de código GIT
 
 ## Requisitos mínimos de hardware e software para a VAGA
 
