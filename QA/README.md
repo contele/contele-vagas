@@ -5,10 +5,27 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 - Organização
 
 ## Desafio QA
-Crie uma conta e utilizando a documentação disponibilizada no site https://dummyapi.io realize a validação dos 4 endpoints disponiveis (User Controller, Post Controller, Comment Controller, Tag Controller)
+
+## Parte 1 - Validação de fluxo web
+
+Crie casos de teste de acordo com o seu conhecimento no fluxo de compra de produtos no seguinte site:
+
+`http://automationpractice.com/index.php`
+
 
 ## *Itens obrigatórios*
-- Realizar validação completa dos Endpoints
+- Descrever um relatório sobre os testes realizados.
+- Evidenciar os testes realizados (print/videos) 
+
+
+## Parte 2 - Validação de endpoints 
+Deve ser validado o fluxo completo da collection criando algo novo,editando,deletando e puxando informações criadas.
+
+`https://fakerestapi.azurewebsites.net/index.html`
+
+
+## *Itens obrigatórios*
+- Escolher uma collection (exceto  as coleções de usuários e atividades) e realizar a validação. 
 - Descrever um relatório sobre os testes realizados
 - Evidenciar os testes realizados (print) 
 
@@ -33,8 +50,8 @@ Queremos uma pessoa que pense fora da caixa, utilize sua criatividade, que traba
 ### Software
 - Docker
 - NodeJS
-- NVM ( geranciador de versões para NodeJS, pois trabalhamos com versões diferentes em vários projetos ) 
-- Client para Database  -  Desejável que seja o Dbeaver.
+- NVM ( gerenciador de versões para NodeJS, pois trabalhamos com versões diferentes em vários projetos ) 
+- "Client" para Database  -  Desejável que seja o Dbeaver.
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux.
 
