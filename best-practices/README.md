@@ -1,7 +1,11 @@
 # Contele - The Best Pratice JS
-# Sobre nós
+
 Este artigo é resultado de muita dedicação e trabalho em equipe. Ao longo do tempo notamos pontos relevantes sobre desenvolver um código, além de documentos com grande peso em referencia na tecnologia. Adotamos um novo metodos não em si focado na linguagem propriamente dita, mas em um novo modelo adaptado e eficiente.
 Traga para si, o vicio de sempre querer o melhor!
+
+## Melhor prática
+> Uma “melhor prática” pode ser considerada como uma prática “geralmente aceita”, que necessita uma comprovação empírica de um resultado específico e é proposto por uma comunidade de prática como um padrão ou o mínimo necessário para ser considerado como uma prática. A “melhor prática” é transformada em “boa prática” através de sua aplicação para ajudar a alcançar um ou mais resultados desejados.
+Não sendo necessariamente uma regra imposta.
 
 ### Contele e suas tecnologias: 
 - Javascript: NodeJS, React, React Native, Typescript
