@@ -8,9 +8,9 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 
 ## Parte 1 - Validação de fluxo web
 
-Crie casos de teste de acordo com o seu conhecimento no fluxo de compra de produtos no seguinte site:
+Crie uma conta no site abaixo e realize casos de teste de acordo com o seu conhecimento, o teste deve efetuar a cobertura no registro,login e transferências. 
 
-`http://automationpractice.com/index.php`
+`https://parabank.parasoft.com/parabank/index.htm`
 
 
 ## *Itens obrigatórios*
