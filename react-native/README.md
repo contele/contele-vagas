@@ -46,12 +46,14 @@ Segue a imagem do aplicativo para aplicar a solução:
 * Geolocalização (obter localização)
 * Sincronização 
 * Offline
+* Testes automatizados
   
 ### O que apreciamos
 
 * README.md
 * Código limpo e bem organizado
 * Android e iOS
+* Testes automatizados
 
 ### Finalizando
 * Suba a sua proposta para o projeto que você criou no GitHub e nos envie o link.
@@ -68,7 +70,6 @@ Segue a imagem do aplicativo para aplicar a solução:
 - Docker
 - NodeJS
 - NVM ( geranciador de versões para NodeJS, pois trabalhamos com versões diferentes em vários projetos ) 
-- Client para Database  -  Desejável que seja o Dbeaver.
 - Editor de texto - Desejável que seja o vscode. 
 - Sistema Operacional - Desejável que seja alguma distribuição Linux.
 
