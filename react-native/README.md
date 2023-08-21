@@ -37,7 +37,7 @@ Segue a imagem do aplicativo para aplicar a solução:
 
 ![Layout](src/assets/layout.png)
 
-### Requisitos (Atualizado)
+### Requisitos
 
 #### React Native
 - Utilize React Native 0.60+.
@@ -53,13 +53,13 @@ Segue a imagem do aplicativo para aplicar a solução:
 #### Testes automatizados
 - Inclua testes automatizados para validar a lógica e funcionalidades implementadas.
 
-#### O que apreciamos (Atualizado)
+#### O que apreciamos
 - *README.md:* Forneça uma documentação clara e completa do projeto.
 - *Código limpo e bem organizado:* Siga as melhores práticas de codificação, incluindo nomenclatura consistente, modularização e comentários relevantes.
 - *Android e iOS:* Certifique-se de que o aplicativo funcione em ambas as plataformas.
 - *Testes automatizados:* Inclua testes unitários e/ou de integração para garantir a qualidade do código.
 
-### Instruções Finais (Adicionado)
+### Instruções Finais
 Ao concluir o teste, esperamos que você demonstre suas habilidades práticas em React Native e sua capacidade de resolver problemas complexos de maneira eficaz. Estamos particularmente interessados em ver como você aborda o código limpo, a organização, a documentação e os testes automatizados.
 
 Suba a sua proposta para o projeto que você criou no GitHub e nos envie o link. Avaliaremos seu projeto com base nos critérios acima, e seu desempenho nesses aspectos será fundamental na nossa decisão de avançar no processo de seleção.
