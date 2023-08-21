@@ -15,7 +15,11 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 
 ### O Desafio
 
-Na Contele trabalhamos bastante com geolocalização, dentro desse contexto, a gente diversos problemas com área de sombra(offline). Seguindo essa ideia, seu desafio é criar um Aplicativo para obter a localização do celular e trabalhar a lógica de sincronização de informações. O que seria essa sincronização, criar pacotes e enviar para um servidor, simulando o ambiente offline para guardar os pontos e quando estiver online, enviar para o servidor.
+Aqui na Contele, trabalhamos diversas vezes com tratativas de dados em área de sombra (offline).
+Seguindo essa ideia, seu desafio é criar um Aplicativo para obter a localização do celular e trabalhar a lógica de sincronização das informações.
+
+#### O que seria essa Sincronização?
+É esperado que: você crie pacotes e envie para um servidor, simulando o ambiente offline para guardar os pontos e quando estiver online, envie para o servidor.
 
 Nesse repositório disponibilizamos um ambiente com os endpoints para salvar os pacotes, buscar informações do pacote e listar os pacotes. 
 
