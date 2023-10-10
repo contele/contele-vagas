@@ -29,10 +29,10 @@ Eu da empresa Contele, tentei criar uma conta no site abaixo e obtive dificuldad
 
 
 ## *Itens obrigatórios*
-- Entenda e Descreva um relatório sobre o fluxo do cliente.
+- Entenda e Descreva um relatório sobre todo o fluxo do cliente.
 - Evidencie as telas até o fim do fluxo (print/videos).
 
-## Parte 2 - Validação de endpoints 
+## Ticket 02 - Validação de endpoints 
 Deve ser validado o fluxo completo dos endpoint criando algo novo,editando,deletando e puxando informações criadas.
 
 `https://fakerestapi.azurewebsites.net/index.html`
