@@ -53,3 +53,5 @@ Queremos uma pessoa que pense fora da caixa, utilize sua criatividade, que traba
 ### Por onde enviar meu teste ?
 * Suba o relatório no github através de um readme e nos envie o link.
 * É de extrema importância estar em anexo provas dos testes realizados (videos,fotos,etc)
+
+### Prazo estimado de 3 dias
