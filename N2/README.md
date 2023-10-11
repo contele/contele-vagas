@@ -21,6 +21,30 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 
 ## Desafio do N2
 
+### Template para envio de relatório
+
+<details>
+
+## Teste suporte N2
+
+### **Descrição:**
+> Adicionar um resumo sobre o problema
+
+### **Passos:**
+> Passo 1: 
+> Passo 2:
+
+### **Expectativa de como deveria funcionar:**
+> Identificar o problema e descrever uma possível solução.
+
+### **Capturas de tela (Anexos)**
+> Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
+
+### **Contexto adicional**
+> Observações extras sobre os fluxos de testes efetuados.
+
+</details>
+
 ## Ticket 01 - Validação de fluxo web
 
 Eu da empresa Contele, tentei criar uma conta no site abaixo e obtive dificuldade na função de registro, adicionei uma letra inves de numero e foi aceito. Ao tentar logar, tinha esquecido minha senha e por estar com a informação cadastrada incorretamente, não consigo recuperar.
@@ -50,8 +74,9 @@ Objetividade e alta capacidade de interpretação das informações do cliente, 
 Queremos uma pessoa que pense fora da caixa, utilize sua criatividade, que trabalhe em equipe e possua boa comunicação sempre buscando novos conhecimentos e que alem de tudo, saiba entender a dor do cliente e comunicar de maneira assertiva para a equipe de desenvolvimento.
 
 ##
-### Por onde enviar meu teste ?
-* Suba o relatório no github através de um readme e nos envie o link.
-* É de extrema importância estar em anexo provas dos testes realizados (videos,fotos,etc)
+### Por onde e como enviar meu teste ?
+* Enviar diretamente para o contato da contele RH.
+* Nos envie o relatório do desafio nos formatos Docx, pdf ou notion.
+* É de extrema importância estar em anexo provas dos testes realizados (videos,fotos,etc).
 
 ### Prazo estimado de 3 dias
