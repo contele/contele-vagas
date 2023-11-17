@@ -9,7 +9,7 @@ Não sendo necessariamente uma regra imposta.
 
 ### Contele e suas tecnologias:
 
-a linguagem de progração principal da Contele é **javascript** junto de suas ramificações, frameworks, bibliotecas e tecnologias complementares:
+a linguagem de programação principal da Contele é **javascript** junto de suas ramificações, frameworks, bibliotecas e tecnologias complementares:
 1. nodejs
 1. react
 1. react native
