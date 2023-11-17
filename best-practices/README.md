@@ -7,29 +7,33 @@ Traga para si, o vicio de sempre querer o melhor!
 > Uma “melhor prática” pode ser considerada como uma prática “geralmente aceita”, que necessita uma comprovação empírica de um resultado específico e é proposto por uma comunidade de prática como um padrão ou o mínimo necessário para ser considerado como uma prática. A “melhor prática” é transformada em “boa prática” através de sua aplicação para ajudar a alcançar um ou mais resultados desejados.
 Não sendo necessariamente uma regra imposta.
 
-### Contele e suas tecnologias: 
-- Javascript: NodeJS, React, React Native, Typescript
-- PHP
-- Nginx
-- Docker
-- Shellscript
-- Angular v1, Angular v2+
-- HTML/CSS
-- Firebase SDK
-- Google Maps SDK
-- Crashlytics / Fabric
-- MySQL, PostgreSQL
-- Balsamiq
-- Lambdas
-- hyperapp
-- cypress
-- Gulp
-- Go lang
-- python
-- yml
-- Figma
-- Adobe XD, Photoshop, Illustrator
+### Contele e suas tecnologias:
 
+a linguagem de programação principal da Contele é **javascript** junto de suas ramificações, frameworks, bibliotecas e tecnologias complementares:
+1. nodejs
+1. react
+1. react native
+1. typescript
+1. angular v1
+1. nginx 
+1. docker
+1. html/css 
+1. firebase
+1. google maps / google apis
+1. mysql
+1. postgresql
+1. figma
+1. cypress
+
+as seguintes tecnologias ainda estão presentes apenas para manutenção:
+
+1. php
+1. hyperapp
+1. gulp
+1. go lang
+1. python
+1. aws lambda
+1. shellscript
 
 ## Melhores Práticas 
 ##### O que **nunca** usar?
