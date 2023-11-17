@@ -25,7 +25,7 @@ a linguagem de programação principal da Contele é **javascript** junto de sua
 1. figma
 1. cypress
 
-as seguintes linguagens/tecnologias ainda estão presentes apenas para manutenção:
+as seguintes tecnologias ainda estão presentes apenas para manutenção:
 
 1. php
 1. hyperapp
