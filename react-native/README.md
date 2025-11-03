@@ -16,7 +16,7 @@ Confira um vídeo com uma explicação melhor sobre a empresa: [https://youtu.be
 
 ### ⚠️ Formato: Bug Bounty ao Vivo
 
-Este **NÃO é** um teste take-home tradicional. Este é um **teste ao vivo** no formato **Bug Bounty**, onde você atuará como um desenvolvedor de suporte técnico resolvendo problemas reais reportados por clientes.
+Este **NÃO é** um teste take-home tradicional. Este é um **teste ao vivo** no formato **Bug Bounty**, onde você atuará como um desenvolvedor mobile resolvendo problemas reais reportados por clientes.
 
 ### Como Funciona
 
