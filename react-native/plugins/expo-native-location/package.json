@@ -1,0 +1,19 @@
+{
+  "name": "expo-native-location",
+  "version": "1.0.0",
+  "description": "Native location module for Expo with intentional bugs for testing",
+  "main": "src/index.ts",
+  "scripts": {},
+  "keywords": ["expo", "location", "native-module"],
+  "author": "Contele",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": "*"
+  },
+  "dependencies": {
+    "expo-modules-core": "~1.11.0"
+  },
+  "devDependencies": {
+    "expo-module-scripts": "^3.0.0"
+  }
+}
