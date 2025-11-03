@@ -39,7 +39,7 @@ Este **NÃO é** um teste take-home tradicional. Este é um **teste ao vivo** no
 
 ### Sua Missão
 
-Você foi contratado pela Contele como **Desenvolvedor de Suporte Técnico**. Nosso time de QA e múltiplos clientes reportaram diversos problemas críticos em nossa aplicação de rastreamento de pontos.
+Você foi contratado pela Contele como **Desenvolvedor Mobile**. Nosso time de QA e múltiplos clientes reportaram diversos problemas críticos em nossa aplicação de rastreamento de pontos.
 
 Seu trabalho é:
 
